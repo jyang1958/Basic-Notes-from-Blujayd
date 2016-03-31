@@ -10,7 +10,7 @@
 
 * [Watson Researching](http://www.wired.com/insights/2015/02/what-can-watson-do-for-your-company/)
 * Last July, MIT Technology Review reported that Watson is poised to overtake human doctors in oncology expertise. With some tweaking to its current knowledge base, Watson will soon be able to stay informed of all the cutting-edge research data and provide up-to-the-minute treatment recommendations, exceeding what even the most focused human doctor is able to provide.
-*  a more engaging, personalized and relevant shopping experience
+*  Retail-wise: a more engaging, personalized and relevant shopping experience
   * where you can use natural language to find clothes
 
 ## 3D Models
